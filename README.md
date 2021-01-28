@@ -3,7 +3,7 @@
 
 <h3 align="center">A computer science student 🏅 passionate about data science and Machine learning from Delhi, India</h3>
 
-- 🎖 My Skills 
+- 🎖 **My Skills**
   - Python 🐍
   - SQL 📂
   - Data Analysis 📊
