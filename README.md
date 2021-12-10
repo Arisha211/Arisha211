@@ -9,13 +9,10 @@
   - Data Analysis 📊
   - Machine Learning 💻
   - Tableau 📈
-  - Power BI 📉
   - NLP 🔊
   - Computer Vision 💻
   - Excel 📅
   - Statistics 🔡
-
-- 🌱 I’m currently learning **Big Data, Deployment of ML Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arisha211](https://github.com/Arisha211)
 
